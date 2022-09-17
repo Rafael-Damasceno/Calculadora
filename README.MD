@@ -1,6 +1,6 @@
 # Calculadora com Bordas Giratorias
 
-Projeto desenvolvido para treinar funcões em java script e animações em CSS.
+Projeto desenvolvido para treinar funções em Javascript e animações em CSS.
 
 ![Preview](./.github/Preview.png)
 
